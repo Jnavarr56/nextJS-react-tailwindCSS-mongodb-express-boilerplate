@@ -3,11 +3,12 @@ import "../assets/style.css"
 
 export default class Index extends React.Component {
   getInitialProps = async context => {
-    console.log(context)
+    // console.log(context)
     return {}
   }
 
   render = () => {
+    console.log(process.env)
     return (
       <div className="app">
         <header>
