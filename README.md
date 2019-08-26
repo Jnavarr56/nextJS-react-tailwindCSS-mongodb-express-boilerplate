@@ -1,6 +1,6 @@
-# Safekeep - Kanban Dashboard Demo
+# Boilerplate
 
-The following is a project for part of an internship application in which I attempt to create a "screen" that demonstrates potential React components for a sales oriented dashboard organizing leads into kanban-style columns that indicate stages in the sales lifecycle.
+The following is an attempt to create a boilerplate that can quickly be used for full stack, server-side rendered web apps.
 
 # Stack
 
